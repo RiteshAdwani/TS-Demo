@@ -47,3 +47,5 @@ This project implements a custom **type-safe router** built using TypeScript. It
 ## Known Issues
 
 - **Inference of Params and Search Params**: Currently, type inference applies to all routes, even those that don't have params, which will be addressed in future improvements.
+
+## Live Link:[TS-Demo](https://typesafe-router.netlify.app)
